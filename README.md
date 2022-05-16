@@ -20,6 +20,6 @@ The process is as follows:
         
     - Save output gcode file.
     
-Usage: python layerRepeater.py <filename> <layer number> <number of repetitions>
+Usage: python layerRepeater.py \<filename> \<layer number> \<number of repetitions>
 
 Mike Germain 2022
