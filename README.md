@@ -19,5 +19,7 @@ The process is as follows:
         values back to cummulative/absolute.
         
     - Save output gcode file.
+    
+Usage: python layerRepeater.py <filename> <layer number> <number of repetitions>
 
 Mike Germain 2022
