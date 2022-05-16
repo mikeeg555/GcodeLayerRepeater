@@ -22,4 +22,6 @@ The process is as follows:
     
 Usage: python layerRepeater.py \<filename> \<layer number> \<number of repetitions>
 
+Tested only on GCODE output from Creality slicer.
+
 Mike Germain 2022
